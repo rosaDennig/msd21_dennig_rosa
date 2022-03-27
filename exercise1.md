@@ -7,7 +7,7 @@ a picture
 
 
 
-![alt numbers](numberstest.png)
+![numbers](numberstest.png)
 
 ```
 

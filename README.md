@@ -49,4 +49,22 @@ Feel free to submit issues and/or feel free take the source code and enhance the
 The license is still work in process.
 ```
 
+a link to
+## some markdown exercises
+
+[exercise1](./exercise1.md)
+
+a link to
+## a list of git commands
+
+[exercise2](exercise2.md)
+
+
+
+
+## a Picture of the console after a test run of Numbers:
+![numbers](numberstest.png)
+
+
+
 
