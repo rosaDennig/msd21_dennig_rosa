@@ -46,8 +46,12 @@ Feel free to submit issues and/or feel free take the source code and enhance the
 ```
 ## License
 ```
-The license is still work in process.
+The license is still a work in process.
 ```
+
+## a Picture of the console after a test run of Numbers:
+![numbers](numberstest.png)
+
 
 a link to
 ## some markdown exercises
@@ -55,15 +59,20 @@ a link to
 [exercise1](./exercise1.md)
 
 a link to
-## a list of git commands
+## a list of git commands 
 
 [exercise2](exercise2.md)
 
+link to 
+## GitHub profile page
 
+[GitHub profile page ](https://github.com/rosaDennig)
 
+link to
+## fh-joanneum
 
-## a Picture of the console after a test run of Numbers:
-![numbers](numberstest.png)
+[fh-joanneum page](https://www.fh-joanneum.at/)
+
 
 
 
