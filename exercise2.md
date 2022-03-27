@@ -2,8 +2,8 @@
 ### Git Commands
 
 
-###SETUP
-####Configuring user information used across all local repositories
+### SETUP
+#### Configuring user information used across all local repositories
 
 ```
 
@@ -77,7 +77,7 @@ show the commit history for the currently active branch
 
 ```
 
-###SHARE & UPDATE
+### SHARE & UPDATE
 
 #### Retrieving updates from another repository and updating local repos
 
