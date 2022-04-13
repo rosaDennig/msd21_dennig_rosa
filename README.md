@@ -63,6 +63,11 @@ a link to
 
 [exercise2](exercise2.md)
 
+link to
+## dokumentation of maven project structure and git
+[exercise3](exercise3.md)
+
+
 link to 
 ## GitHub profile page
 
