@@ -6,6 +6,16 @@ I added new dependencies to pom.xml, (from the exercise4 sheet) to be able to ma
 It didn't work.
 I added:
 
+    <dependencies>
+    <dependency>
+        <groupId>org.junit.jupiter</groupId>
+        <artifactId>junit-jupiter-api</artifactId>
+        <version>5.8.2</version>
+        <scope>test</scope>
+    </dependency>
+    </dependencies>
+    
+It seams to work.    
 
   
 ```
@@ -27,7 +37,21 @@ public double multiply(double number1, double number2)
 
 public double divide(double number1, double number2)
 
+I tested the cases with assertEquals( , ) , with assertNotEquals( , ) and with assertTrue( , ) cases.
+
+
+```
+# 1.CalculatorTest Cases
+![ex4_1](ex4_1.png)
 
 ```
 
-![target](target.png)
+I created three test cases for the following methode:
+
+public static long calcFaculty(long n) 
+
+```
+
+# 2.CalculatorTest Cases for calcFaculty that failed
+![ex4_2](ex4_2.png)
+
