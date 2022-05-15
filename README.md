@@ -67,6 +67,10 @@ link to
 ## dokumentation of maven project structure and git
 [exercise3](exercise3.md)
 
+link to
+## dokumentation of source code testing
+[exercise4](exercise4.md)
+
 
 link to 
 ## GitHub profile page
