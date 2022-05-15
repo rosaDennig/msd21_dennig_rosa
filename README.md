@@ -64,11 +64,11 @@ a link to
 [exercise2](exercise2.md)
 
 link to
-## dokumentation of maven project structure and git
+## documentation of maven project structure and git
 [exercise3](exercise3.md)
 
 link to
-## dokumentation of source code testing
+## documentation of source code testing
 [exercise4](exercise4.md)
 
 
