@@ -1,3 +1,5 @@
+package at.fhj.msd;
+
 public class Calculator {
 
     public double add(double number1, double number2) {
@@ -13,4 +15,14 @@ public class Calculator {
         return number1 / number2;
     }
 
+    public static long calcFaculty(long n) {
+        if( n == 0 || n == 1){
+            return 1;
+        }
+        else{
+            return n * calcFaculty(n - 1);
+        }
+    }
+
 }
+
