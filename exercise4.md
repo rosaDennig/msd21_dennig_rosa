@@ -42,7 +42,7 @@ I tested the cases with assertEquals( , ) , with assertNotEquals( , ) and with a
 
 ```
 # 1.CalculatorTest Cases
-![ex4_1](ex4_1.png)
+![ex4_1](resorces/images/ex4_1.png)
 
 ```
 
@@ -53,5 +53,5 @@ public static long calcFaculty(long n)
 ```
 
 # 2.CalculatorTest Cases for calcFaculty that failed
-![ex4_2](ex4_2.png)
+![ex4_2](resorces/images/ex4_2.png)
 
