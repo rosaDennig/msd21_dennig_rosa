@@ -6,3 +6,4 @@
 *.build
 *.target
 *.log
+log4j2.xml
