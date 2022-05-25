@@ -3,7 +3,7 @@
 *.html 
 *.pdf
 *.idea
-*.build
-*.target
+build/
+target/
 *.log
 log4j2.xml
