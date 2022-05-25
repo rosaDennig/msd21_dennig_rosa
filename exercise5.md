@@ -2,6 +2,7 @@
 #### create a new branch logging
 ```
 with git branch -Switch to the logging branch via git checkout
+with  git log --graph --decorate --oneline the banches are visible
 ```
 #### dependencies added to the pom.xml
 ```
@@ -19,14 +20,35 @@ with git branch -Switch to the logging branch via git checkout
 </dependencies>
 
 ```
-#### create Maven project with Log4j2 dependency
+![ex5_1](resorces/images/ex5_1.png)
+#### create  a Maven project with Log4j2 dependency
 ```
  
-
-
--Obtain a Logger -Use INFO and ERROR levels to log 
--by default Log4j assigns the root logger to Level.ERROR
+°make a Logger  and -Use INFO and ERROR levels to log 
+°by default Log4j assigns the root logger to Level.ERROR
 those logs will be printed on the standard console.
--ALL < TRACE < DEBUG < INFO < WARN < ERROR < FATAL 
-Since the default level is set to ERROR, error and fatal will be logged.
+°ALL < TRACE < DEBUG < INFO < WARN < ERROR < FATAL 
+Because the default level is set to ERROR, error and fatal will be logged.
 ```
+![ex5_2](resorces/images/ex5_2.png)
+```
+log4j2.xml -> file with configurations needed for the Logger
+```
+![log4j2.xml.template](src/main/resources/log4j2.xml.template)
+
+#### why logging?
+```
+while running tests, with logging everthing thats going on is traceable 
+in the log data you can see when a test failed where and why? 
+Five standard log4j levels:
+DEBUG Level. This log4j level helps developer to debug application. ...
+INFO Level. This log4j level gives the progress and chosen state information. ...
+WARN Level. This log4j level gives a warning about an unexpected event to the user. ...
+ERROR Level. ...
+FATAL Level. ...
+Configuration possibilities  for log4j:
+-default -Automatic configuration -Additivity
+```
+![ex5_3](resorces/images/ex5_3.png)
+
+![ex5_4](resorces/images/ex5_4.png)
