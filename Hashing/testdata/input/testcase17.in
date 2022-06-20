@@ -1,0 +1,5 @@
+1
+put(1,A)
+get(1)
+put(1,C)
+contains(1)

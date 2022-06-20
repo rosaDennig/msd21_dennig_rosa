@@ -1,0 +1,6 @@
+7
+put(4,ja)
+remove(4)
+get(4)
+contains(4)
+remove(4)

@@ -1,0 +1,4 @@
+5
+put(1,Abc)
+put(1,Xyz)
+get(1)

@@ -1,0 +1,10 @@
+put(1,A)
+[0]:{1,A}
+
+get(1)->A
+
+put(1,C)
+[0]:{1,C}
+
+contains(1)->true
+
