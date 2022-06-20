@@ -73,7 +73,11 @@ link to
 
 link to
 ## branching
-[exercise5](exercise5part.md)
+[exercise5](exercise5.md)
+
+link to
+## documentation
+[exercise6](exercise6.md)
 
 ## log4j2.xml -> file with configurations needed for the Logger
 

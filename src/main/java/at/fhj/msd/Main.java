@@ -2,11 +2,23 @@ package at.fhj.msd;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+/**
+ *   calls methods from class Calculation and prints the results of calculations
+ *   @author  Rosa Dennig
+ */
 public class Main {
 
-    // Creating a logger
+    /**
+     *  Creates a logger
+     */
+
     private static Logger logger = LogManager.getLogger();
 
+
+    /**
+     * input arguments for the calculations
+     * @param args
+     */
     public static void main(String[] args) {
 
         Calculator calc = new Calculator();
@@ -17,7 +29,8 @@ public class Main {
         System.out.println(calc.add(1.0, 33.3));
         System.out.println(calc.calcFaculty(6));
 
-        // Log messages
+        // log messages
+
         logger.debug("It is a debug logger.");
         logger.error("It is an error logger.");
         logger.fatal("It is a fatal logger.");
